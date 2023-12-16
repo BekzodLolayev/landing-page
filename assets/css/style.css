@@ -199,6 +199,12 @@ h6 {
 }
 
 
+/* Modal */
+.container-modal {
+  padding: 50px;
+  height: 100%;
+}
+
 
 #footer .copyright {
   text-align: center;
